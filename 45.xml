@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <section>
+        <item>
+            <name>Product1</name>
+            <param1>ValueA1</param1>
+            <param2>ValueA2</param2>
+            <param3>ValueA3</param3>
+        </item>
+        <item>
+            <name>Product2</name>
+            <param1>ValueB1</param1>
+            <param2>ValueB2</param2>
+            <param3>ValueB3</param3>
+        </item>
+    </section>
+    <section>
+        <item>
+            <name>AnotherProduct1</name>
+            <param1>AnotherValueA1</param1>
+            <param2>AnotherValueA2</param2>
+            <param3>AnotherValueA3</param3>
+        </item>
+        <item>
+            <name>AnotherProduct2</name>
+            <param1>AnotherValueB1</param1>
+            <param2>AnotherValueB2</param2>
+            <param3>AnotherValueB3</param3>
+        </item>
+    </section>
+</products>
